@@ -14,6 +14,10 @@
          direction that elements are moved to prevent burn-in on AOD-->
     <dimen name="udfps_burn_in_offset_x">6px</dimen>
     <dimen name="udfps_burn_in_offset_y">17px</dimen>
+ 
+    <!-- UDFPS animations -->
+    <dimen name="udfps_animation_size">250dp</dimen>
+    <dimen name="udfps_animation_offset">-7dp</dimen>
 
     <!-- Location on the screen of the center of the physical power button. This is a reasonable
     default that should be overridden by device-specific overlays. -->
